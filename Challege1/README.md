@@ -8,7 +8,7 @@ Reto #1: Casa
 
 [Aqui van los pasos redactados por Jayson]
 
-![alt text](https://github.com/ldavid-ruiz06/repositorio_gamedev)
+![alt text](https://github.com/ldavid-ruiz06/repositorio_gamedev/Challege1/Screenshot 2025-09-10 084917.png)
 
 
 Párrafos Personales:

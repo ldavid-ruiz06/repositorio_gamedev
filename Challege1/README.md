@@ -1,9 +1,12 @@
-Luis D. Ruiz Velázquez \n
-Emanuel Morales \n
-Jayson Sanchez Velázquez \n
-Reto #1: Casa \n
+Luis D. Ruiz Velázquez
 
+Emanuel Morales
 
+Jayson Sanchez Velázquez
+
+Reto #1: Casa 
+
+[Aqui van los pasos redactados por Jayson]
 
 
 Párrafos Personales:

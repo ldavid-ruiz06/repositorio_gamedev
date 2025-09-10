@@ -1,7 +1,7 @@
-Luis D. Ruiz Velázquez
-Emanuel Morales
-Jayson Sanchez Velázquez
-Reto #1: Casa
+Luis D. Ruiz Velázquez \n
+Emanuel Morales \n
+Jayson Sanchez Velázquez \n
+Reto #1: Casa \n
 
 
 

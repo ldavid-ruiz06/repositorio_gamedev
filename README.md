@@ -1,3 +1,3 @@
 Luis D. Ruiz Velázquez
-Emanuel Morales algo
+Emanuel Morales
 Jayson Sánchez Velázquez

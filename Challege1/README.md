@@ -8,7 +8,7 @@ Reto #1: Casa
 
 [Aqui van los pasos redactados por Jayson]
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png)
+![alt text](https://github.com/ldavid-ruiz06/repositorio_gamedev)
 
 
 Párrafos Personales:

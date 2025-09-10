@@ -33,6 +33,7 @@ Luis D. Ruiz Velázquez:
   A través de este reto, tuve la oportunidad de aprender sobre el sistema de navegación de Unity, como agregar objetos y modificar sus atributos a través de las herramienas o el inspector. Estoy seguro que con las destezas aprendidas, podré crear escenarios y modelos sencillos para crear prototipos para juegos. 
 
 Emanuel Morales: 
+Este challenge fue bastante sencillo. Aplique los conocimientos aprendidos en clase sobre como rotar, escalar y mover objetos 3D. Fue una experiencia chevere y divertida. Realmente la parte mas "dificil" fue parear los objetos lo mas preciso posible al momento de unir las figuras. Ya que varias veces me paso que al unir una pared con la otra habia una parte sobresaliendo o desnivelada. 
 
 Jayson Sanchez Velázquez:
 

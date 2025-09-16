@@ -8,14 +8,14 @@ Reto #2: Kirby
 
 Parte 1: Creando el prefab del Kirby
 
-1) Se pone la esfera
+1) Luego de crear y abrir un proyecto nuevo en Unity 3D, empezamos con la creación del prefab de Kirby. Para esto, iniciamos con la creación de una esfera utilizando el menú de 3D objects que ya vienen implementado en el motor. Este será la base para el prefab del modelo. 
 <img width="1918" height="589" alt="Screenshot 2025-09-15 201155" src="https://github.com/user-attachments/assets/6b8966c6-5375-4840-94f5-7a48b153e23f" />
 
-2) Se agrega la capsula
+2) Luego, utilizando el mismo menú anterior, agregamos un game object de tipo capsula. Esta será utilizada para crear los ojos de Kirby.
 
 <img width="1918" height="629" alt="Screenshot 2025-09-15 201232" src="https://github.com/user-attachments/assets/00dc57cf-4585-4fbf-991b-241bcd866747" />
 
-3) Se redimensiona la capsula
+3) Utilizando una combinación de las herramienta de escala y el inspector, cambiamos las dimensiones de la capsula. Disminuimos la escala en Z para aplanar el objeto, y luego reducimos las escalas en X y Y para reducir el tamaño proporcionalmente para que sean del tamaño correcto. 
 
 <img width="1919" height="620" alt="Screenshot 2025-09-15 201306" src="https://github.com/user-attachments/assets/dd24df9f-e98e-4333-8ded-9bb3932adb8a" />
 

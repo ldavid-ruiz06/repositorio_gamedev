@@ -100,7 +100,7 @@ Mi unica experiencia con Kirby fue jugando Super Smash Bros en mi Nintendo 3DS. 
 
 Luis D. Ruiz
 
-blah blah
+Kirby siempre ha sido un personaje bastante icónico para mí, gracias a su adorable y su habilidad de copiar los poderes de los enemigos, mecánica que me parece bastante divertida y única. Aunque no he podido jugar mucho de sus juegos, los que he podido jugar me han parecido bien entretenidos, en especial cuando los juegos en conjunto con mi familia o amigos. Así que Kirby siempre será un personaje especial para mí. 
 
 Jayson Sánchez
 

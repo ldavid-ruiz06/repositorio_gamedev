@@ -69,10 +69,34 @@ Kirby Mago - Kirby puede utilizar cartas o trucos clásicos de magia para atacar
 <img width="375" height="388" alt="image" src="https://github.com/user-attachments/assets/0b5c0ae0-2ccf-4879-a6b2-f878462b8bbc" />
 
 
+Parte 3: Preparando el terreno
 
+1) Se crear el terrain
 
+<img width="1919" height="622" alt="Screenshot 2025-09-16 213500" src="https://github.com/user-attachments/assets/7a3f5d39-185b-428b-8cb8-34bdfb53bada" />
 
+2) Se establecen las dimesiones
 
+<img width="489" height="509" alt="Screenshot 2025-09-16 213627" src="https://github.com/user-attachments/assets/d7b96e67-8491-49bf-ba62-89a9d23ece12" />
 
+3) Se importar el raw
+
+<img width="405" height="585" alt="Screenshot 2025-09-16 213706" src="https://github.com/user-attachments/assets/6a3403aa-300a-47aa-9563-4c6b6669bdce" />
+
+4) Una vez el raw es procesado, se crear el terrain a partir del heightmap
+
+<img width="1919" height="626" alt="Screenshot 2025-09-16 213817" src="https://github.com/user-attachments/assets/3fd426ca-d889-43a3-98d0-b3533ad04081" />
+
+Historias personales:
+
+Emanuel Morales:
 
 Mi unica experiencia con Kirby fue jugando Super Smash Bros en mi Nintendo 3DS. Recuerdo jugar con mis amigos en la escuela, cada uno con su personaje diestro. El mio era Greninja, pero Kirby era el de mi amigo. Siempre agarraba y comia a mi Greninja o terminaba volando por el mapa por un martillazo de Kirby.
+
+Luis D. Ruiz
+
+blah blah
+
+Jayson Sánchez
+
+Blah blah

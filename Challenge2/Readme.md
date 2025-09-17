@@ -103,7 +103,7 @@ Ahora, los kirbys comienzan a planear su conquista:
 
 <img width="628" height="465" alt="image" src="https://github.com/user-attachments/assets/389112b0-3074-4d6c-83cb-e7eacf913b59" />
 
-Tras tanto esfuerzo, nisiquiera un hroe tan poderoso como ROBOT HERO puede detener a las bolas de odio rosadas.
+Tras tanto esfuerzo, nisiquiera un héroe tan poderoso como ROBOT HERO puede detener a las bolas de odio rosadas.
 
 <img width="908" height="540" alt="Screenshot 2025-09-16 221149" src="https://github.com/user-attachments/assets/32b478ae-c8ce-47f1-819c-d231fe75fb42" />
 

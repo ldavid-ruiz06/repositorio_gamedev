@@ -67,3 +67,9 @@ Kirby Mario - la forma que Kirby opta cuando copia la habilidad del famoso fonta
 Kirby Mago - Kirby puede utilizar cartas o trucos clásicos de magia para atacar a los enemigos. Sin embargo, inicialmente, la habilidad Magic solo tenía un uso y al ser utilizada otorgaba un efecto aleatorio que era escogido en una ruleta. 
 
 <img width="375" height="388" alt="image" src="https://github.com/user-attachments/assets/0b5c0ae0-2ccf-4879-a6b2-f878462b8bbc" />
+
+
+
+
+
+Mi unica experiencia con Kirby fue jugando Super Smash Bros en mi Nintendo 3DS. Recuerdo jugar con mis amigos en la escuela, cada uno con su personaje diestro. El mio era Greninja, pero Kirby era el de mi amigo. Siempre agarraba y comia a mi Greninja o terminaba volando por el mapa por un martillazo de Kirby.

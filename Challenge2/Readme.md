@@ -72,4 +72,13 @@ Kirby Mago - Kirby puede utilizar cartas o trucos clásicos de magia para atacar
 
 
 
+
+
+
+
+
+
+
+
+
 Mi unica experiencia con Kirby fue jugando Super Smash Bros en mi Nintendo 3DS. Recuerdo jugar con mis amigos en la escuela, cada uno con su personaje diestro. El mio era Greninja, pero Kirby era el de mi amigo. Siempre agarraba y comia a mi Greninja o terminaba volando por el mapa por un martillazo de Kirby.

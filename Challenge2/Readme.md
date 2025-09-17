@@ -71,6 +71,8 @@ Kirby Mago - Kirby puede utilizar cartas o trucos clásicos de magia para atacar
 
 Parte 3: Preparando el terreno
 
+Para crear un heightmap hay muchos métodos. Pero nosotros intentamos, como buenos programadores, usar la forma que menos trabajo manual requiere: enchufar un heightmap y dejar que Unity lo interprete como un terreno.
+
 1) Se crea el RAW file
 
 Primero, como estipulan las instrucciones, vamos a Tangrams y descargamos el heightmap en formato PNG. Unity, sin plugins, solo acepta raw files como imports para crear un terreno.

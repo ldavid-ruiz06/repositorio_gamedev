@@ -71,11 +71,14 @@ Kirby Mago - Kirby puede utilizar cartas o trucos clásicos de magia para atacar
 
 Parte 3: Preparando el terreno
 
-1) Se crear el terrain
+1) Se crea el RAW file
 
-<img width="1919" height="622" alt="Screenshot 2025-09-16 213500" src="https://github.com/user-attachments/assets/7a3f5d39-185b-428b-8cb8-34bdfb53bada" />
+Primero, como estipulan las instrucciones, vamos a Tangrams y descargamos el heightmap en formato PNG. Unity, sin plugins, solo acepta raw files como imports para crear un terreno.
 
-2) Se establecen las dimesiones
+Aquí se podría pensar en cambiar el formato del archivo desde Files, pero esto lleva a un desastre de terreno. Este problema, asumimos, se debe a que al cambiar el formato a raw desde Files, estás convirtiendo un PNG a raw, con todo y sus canales de colores RGB, canales que Unity no sabe interpretar como heightmaps. Por ello, antes de importar la imagen, hicimos uso de un editor de fotos (Gimp) para convertir este PNG a un grayscale, y de ahí convertirlo a un raw, que pasamos a importar a Unity.
+
+2) Importar el RAW file
+
 
 <img width="489" height="509" alt="Screenshot 2025-09-16 213627" src="https://github.com/user-attachments/assets/d7b96e67-8491-49bf-ba62-89a9d23ece12" />
 

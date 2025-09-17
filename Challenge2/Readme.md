@@ -81,19 +81,27 @@ Aquí se podría pensar en cambiar el formato del archivo desde Files, pero esto
 
 2) Importar el RAW file
 
-
+Primero creamos el terreno al que importaremos el heightmap con los siguientes ajustes:
 <img width="489" height="509" alt="Screenshot 2025-09-16 213627" src="https://github.com/user-attachments/assets/d7b96e67-8491-49bf-ba62-89a9d23ece12" />
 
-3) Se importar el raw
+Ahora viene lo fácil. Creamos un terreno en Unity y, en la pestaña de ajustes del terreno, importamos el raw heightmap. Aquí pueden, y surgieron, varios problemas, todos ellos culminando en este bloque de púas aterrador:
+<img width="780" height="409" alt="Screenshot 2025-09-15 223641" src="https://github.com/user-attachments/assets/fd7fbb29-0c47-4ff1-a2df-7dbaac1fc6f1" />
 
+Uno de estos problemas puede ser la resolución del raw file. Si el raw file tiene un tamaño muy dispar con el del terreno, Unity parece intentar comprimir el heightmap para que quepa, llevando al error. Lo mismo si la resolución es muy pequeña; Unity estira el raw file para que abarque todo el terreno, dejándolo con apenas elevaciones. Si este es el problema, jugar con la resolución del terreno de Unity y del raw file parece poder arreglarlo.
+
+Exportamos el heightmap con los siguientes ajustes.
 <img width="405" height="585" alt="Screenshot 2025-09-16 213706" src="https://github.com/user-attachments/assets/6a3403aa-300a-47aa-9563-4c6b6669bdce" />
 
-4) Una vez el raw es procesado, se crear el terrain a partir del heightmap
+3) Una vez el raw es procesado, se crear el terrain a partir del heightmap
 
 <img width="1919" height="626" alt="Screenshot 2025-09-16 213817" src="https://github.com/user-attachments/assets/3fd426ca-d889-43a3-98d0-b3533ad04081" />
 
-Ahora agregamos los Kirbys para que colonicen el area juntos. 
+Y mira qué lindo. De seguro esculpirlo hubiera sido más rápido que trastear con esta magia, pero el sentimiento de haber automatizado el proceso sin duda lo vale. Aunque parece tener un error en el borde, en donde una pared gigante se alza, tras las incontables abominaciones creadas, culparemos de esto a la forma en la que Gimp convirtió el PNG a raw.
 
+Ahora, los kirbys comienzan a planear su conquista:
+<img width="628" height="465" alt="image" src="https://github.com/user-attachments/assets/389112b0-3074-4d6c-83cb-e7eacf913b59" />
+
+Tras tanto esfuerzo, nisiquiera un hroe tan poderoso como ROBOT HERO puede detener a las bolas de odio rosadas.
 <img width="908" height="540" alt="Screenshot 2025-09-16 221149" src="https://github.com/user-attachments/assets/32b478ae-c8ce-47f1-819c-d231fe75fb42" />
 
 

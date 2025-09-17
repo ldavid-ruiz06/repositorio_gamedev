@@ -118,6 +118,6 @@ Luis D. Ruiz
 
 Kirby siempre ha sido un personaje bastante icónico para mí, gracias a su adorable y su habilidad de copiar los poderes de los enemigos, mecánica que me parece bastante divertida y única. Aunque no he podido jugar mucho de sus juegos, los que he podido jugar me han parecido bien entretenidos, en especial cuando los juegos en conjunto con mi familia o amigos. Así que Kirby siempre será un personaje especial para mí. 
 
-Jayson Sánchez
+Jayson Sánchez:
 
-Blah blah
+No crecí con consolas de Nintendo, y ahora de grande no tengo dinero para comprar videojuegos para una. Pero tengo memorias especiales relacionadas a Kirby. Como gran juego de fiestas que es, jugaba mucho Super Smash Bros en casas y consolas ajenas, como la de mi tío. Como malos jugadores, nos divertíamos aplastando botones, puro corazón, nada de mente. Pero la cosa dejaba de ser divertida cuando las victorias se empiezan a acumular de un solo lado, situación que siempre involucraba... a uno de los dos usando a Kirby. Como lo de mal perdedor parece fluir en la familia, las humillantes derrotas y agridulces victorias usando a Kirby son lo primero que me viene a la mente al pensar en el personaje.

@@ -1,0 +1,3 @@
+Primera Parte: Script de Jump
+
+Para poder darle salto al personaje comenzamos creando una variable publica de tipo float llamada jumpForce la cual define la intensidad del salto.

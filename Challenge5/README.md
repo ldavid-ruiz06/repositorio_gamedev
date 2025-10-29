@@ -57,6 +57,6 @@ https://github.com/user-attachments/assets/d756af34-74e6-4ad3-a209-e875ed600fd6
 
 
 
+![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/user-attachments/assets/050e893c-9601-4052-b2ca-5b4f6f29c859)
 
-![Uploading Vídeo sin título ‐ Hecho con Clipchamp.gif…]()
 

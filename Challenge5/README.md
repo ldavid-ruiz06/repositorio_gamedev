@@ -44,6 +44,10 @@ Finalmente, el movimiento se aplica utilizando movementAdjusted.x y movementAdju
 
 
 
+https://github.com/user-attachments/assets/d756af34-74e6-4ad3-a209-e875ed600fd6
+
+
+
 
 
 

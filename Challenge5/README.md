@@ -1,4 +1,4 @@
-Primera Parte: Script de Jump
+![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/user-attachments/assets/46e49ce2-69d7-4f5a-ac77-bc49e73cf06c)Primera Parte: Script de Jump
 
 Para poder darle salto al personaje comenzamos creando una variable publica de tipo float llamada jumpForce la cual define la intensidad del salto. Se le dio un valor inicial de 5f, pero se puede modificar desde el Inspector de Unity.
 Se creo una variable privada de tipo Rigidbody llamada rb. Representa el componente físico del personaje, necesario para aplicar fuerzas y respetar la gravedad.
@@ -55,8 +55,17 @@ https://github.com/user-attachments/assets/d756af34-74e6-4ad3-a209-e875ed600fd6
 
 
 
+jumping
 
 
-![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/user-attachments/assets/050e893c-9601-4052-b2ca-5b4f6f29c859)
+https://github.com/user-attachments/assets/f5f9f3ab-fbbd-410f-b907-e6ba5dd9c461
+
+
+
+
+
+running
+
+https://github.com/user-attachments/assets/1207f620-a792-48cf-8460-89289c75426b
 
 

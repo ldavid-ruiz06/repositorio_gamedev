@@ -52,6 +52,24 @@ https://github.com/user-attachments/assets/d756af34-74e6-4ad3-a209-e875ed600fd6
 
 
 
+Tercera Parte: Jump y Spring en Visual Script
+
+Usando el Visual Script del movimiento del jugador, creamos otra variable en el object para el speed. Esta variable será para guardar el valor de la velocidad para cuando el jugador corra (sprint). En este caso, la velocidad del jugador se multiplicará por cuatro (4) al correr. 
+
+<img width="623" height="105" alt="image" src="https://github.com/user-attachments/assets/e91a6001-8b57-4c2d-8938-866d0adb8fc4" />
+
+Luego, creamos utilizamos una estructura de selección que devuelve la velocidad normal cuando shift es falso, y la velocidad de sprint cuando shift es cierto. 
+
+<img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/bab29566-b55e-4227-a234-acc4d6f18145" />
+
+
+Seguiendo el mismo procedimiento, podemos implementar el script para el salto, utilizando en esta ocasión un componente del box collider y colocandolo a los pies del personaje del jugador que servirá de trigger para saber si el jugador está en el suelo o no. Creamos una variable tipo booleana, y la nombramos "isGrounded". 
+
+
+Y luego, utilizando los nodos OnTriggerEnter y OnTriggerExit podemos asignar el valor correspondiente a la variable isGrounded (cierto cuando hay contacto, falso cuando no hay). Y (utilizando el sistema viejo de input de Unity), podemos detectar que si la tecla Space ha sido pulsada y isGrounded tiene el valor de cierto, utilizamos la función AddForce para añadir movimiento de formar vertical al jugador, de forma que salte. Y gracias al box collider y la variable isGrounded, podemos asegurarnos que el jugador solo puede saltar cuando está en el suelo y no en el aire.
+
+<img width="975" height="571" alt="image" src="https://github.com/user-attachments/assets/e39b673a-0432-4d9b-b245-d7e4193c822d" />
+
 
 
 
